@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1400449828 source:c:\users\nuno\desktop\codeblocks\teste_curses\main.c
+	<stdio.h>
+	<stdlib.h>
+	<curses.h>
+	<panel.h>
+	<locale.h>
+

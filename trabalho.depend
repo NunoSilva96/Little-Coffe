@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1403362580 source:c:\users\nuno\desktop\codeblocks\trabalho\main.c
+	<stdio.h>
+	<stdlib.h>
+	<curses.h>
+	<locale.h>
+

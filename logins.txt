@@ -1,0 +1,6 @@
+administrador
+123456789
+empregado1
+1234567
+empregado2
+12345
